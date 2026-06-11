@@ -1,6 +1,6 @@
 # Effect of COVID-19 Lockdown on Air Pollutant Levels in California
 
----
+
 
 ## Introduction
 
