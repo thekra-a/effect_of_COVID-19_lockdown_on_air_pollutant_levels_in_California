@@ -7,7 +7,7 @@
 
 COVID-19 pandemic prompted an unprecedented societal response. On March 19, 2020, California became the first U.S. state to issue a mandatory stay-at-home order, signifucantly reducing traffic, industrial and human activity. This created a rare natural experiment; the opportunity to isolate and measure the short-term effect of reduced human activity on air quality and whether lockdown policies will have a positive effect in controling greenhouse gas emmissions.
 
-This project explores how California's lockdown affected concentrations of five key air pollutants: **CO, NO₂, O₃, PM₂.₅, and PM₁₀** — using 2019 as a pre-pandemic baseline for year-over-year comparison.
+This project explores how California's lockdown affected concentrations of five key air pollutants: **CO, NO₂, O₃, PM₂.₅, and PM₁₀**, using 2019 as a pre-pandemic baseline for year-over-year comparison.
 
 
 ## **Data**
